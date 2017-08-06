@@ -41,4 +41,4 @@ A API, as páginas de exibição e a documentação serão de livre acesso. O ba
 
 ## Comunidade
 
-Foi criado um [grupo no Telegram](https://t.me/joinchat/CnB8oAvTiXHPWjPc4Ef9cA) com o intuito de discutir o projeto.
+Foi criado um [grupo no Telegram](https://t.me/joinchat/CnB8oELd_FLZM_KELhnHwg) com o intuito de discutir o projeto.
