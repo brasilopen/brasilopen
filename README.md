@@ -39,6 +39,9 @@ Para que o projeto faça sentido, outras pessoas devem conseguir entendê-lo e u
 
 A API, as páginas de exibição e a documentação serão de livre acesso. O banco, por questões de segurança, terá uma quantidade de pessoas restrita que poderão acessá-lo. O código dos crawlers estará sempre disponível no Git e qualquer um é bem-vindo a contribuir com o projeto.
 
+## Contribuindo
+[Acesse aqui](https://github.com/brasilapi/brapi/blob/master/CONTRIBUTING.md) o arquivo de contribuição do projeto.
+
 ## Comunidade
 
 Foi criado um [grupo no Telegram](https://t.me/joinchat/CnB8oAvTiXHPWjPc4Ef9cA) com o intuito de discutir o projeto.
