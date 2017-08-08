@@ -1,5 +1,5 @@
-# BRAPI
-API pública centralizadora dos dados governamentais brasileiros.
+# Brasil Open
+Projeto que reúne e padroniza repositórios de dados abertos do Brasil.
 
 ## O projeto
 
