@@ -1,23 +1,26 @@
 # Brasil Open
-Projeto que reúne e padroniza repositórios de dados abertos do Brasil.
+Projeto que visa reunir e padronizar repositórios de dados abertos do Brasil.
 
 ## O projeto
 
 ### Problema
 
-Muitos não sabem, mas o Brasil é hoje o 8° país com maior transparência de dados públicos no mundo. Mas apesar desta transparência, os dados públicos ainda não são bem utilizados pelo seguinte problema: má organização.
+Muitos não sabem, mas o Brasil é hoje o 8° país com maior transparência de dados públicos no mundo. Mas apesar desta transparência, os dados públicos ainda não são bem utilizados por um problema de má organização.
 
-### Solução proposta
+### Proposta
 
-O projeto BRAPI tem o intuito de centralizar os dados públicos em um único lugar, padronizando o acesso para futuros projetos que venham a utilizá-los. Facilitando, assim, iniciativas independentes de combate a corrupção.
+O projeto tem o intuito de centralizar os dados públicos em um único lugar, padronizando o acesso para futuros projetos que venham a utilizá-los. Facilitando iniciativas que possam vir a fazer uso desses dados.
 
-### Arquitetura proposta
+### Arquitetura Proposta
 
-A aplicação será subdividida em 4: Crawlers, componentes de armazenamento de dados, API que disponibilizará os dados e interfaces de visualização.
+O projeto como um todo pode ser dividido em 4 componentes:
+- Crawlers: aplicações que consomem os repositórios de dados oficiais fornecidos pelo [
+Portal Brasileiro de Dados Abertos
+](http://dados.gov.br/) de forma agendada ou reativa
 
 ## Crawlers
 
-Parte onde será necessário o maior esforço do projeto. Robôs que executarão suas tarefas periodicamente para consulta dos dados gorvernamentais. Como esses dados hoje estão desorganizados, serão necessários diversos crawlers, um para cada instituição.
+Parte onde será necessário o maior esforço do projeto. Aplicações que executarão consultas periodicamente dos dados gorvernamentais. Como esses dados hoje estão desorganizados, será necessário a criação de diversos crawlers, um para cada instituição.
 
 ## Armazenamento de dados
 
